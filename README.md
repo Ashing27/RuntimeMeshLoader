@@ -1,7 +1,7 @@
 # RuntimeMeshLoader
-A subsystem from RuntimeMeshLoader
+A demo clone from RuntimeMeshLoader, it can runs on Windows / Unreal Engine 4.25.1
 
 The main code is clone from RuntimeMeshLoader Plugin.
-After my modify, the code could run with assimp 5.0 now.
-I debug this plugin in Windows platform. with Unreal Engine 4.25.1
+The code could run with assimp 5.0 now.
+
 
