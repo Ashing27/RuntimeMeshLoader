@@ -8,5 +8,9 @@ Thanks to GameInstitute
 
 MIT Liscense.
 
+If there's anything what I've done is wrong. Please let me know.
+And also any mistake.
+I'll try my best to fix it.
+
 
 
