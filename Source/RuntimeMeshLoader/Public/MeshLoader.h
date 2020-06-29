@@ -1,5 +1,3 @@
-// Copyright Neusoft Medical, Inc. All Rights Reserved.
-
 #pragma once
 
 #include "CoreMinimal.h"
